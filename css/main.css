@@ -34,8 +34,9 @@ body {
 }
 
 a {
-    color: #1C2541;
+    color: #E8F7EE;
     text-decoration: none;
+    font-weight: 420;
 }
 
 a:hover {
